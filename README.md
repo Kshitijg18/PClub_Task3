@@ -2,7 +2,7 @@
 ## Link to Google Drive
 https://drive.google.com/drive/folders/1n6T2kae9nbmYHZVH_PIMNqTsZV1dwbYA?usp=drive_link
 
-I have also added the dataset on github repo
+I have added the trained model file and dataset on the drive link
 ## Approach for Dataset
 
 
